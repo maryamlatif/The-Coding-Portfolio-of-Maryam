@@ -11,6 +11,9 @@ export default function Educationpage() {
         I hold a bachelor's degree from Govt Karachi University and completed my intermediate studies at S.M.B Fatimah Jinnah College. 
         My educational journey began with my matriculation from GOVT Girls School, providing me with a solid foundation in technology.
       </p>
+       <p>
+        It&apos;s been an incredible journey of growth and learning!
+      </p>
 
       <ul className='list-disc list-inside text-center font-semibold text-sky-900 text-xl'>
         <li className='mb-3'>
